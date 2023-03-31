@@ -1,3 +1,15 @@
 # camEar-osTV
-camEar App for Apple TV
-- Add some video tracks
+camEar app for Apple TV.
+
+To be used in pairs with camEar app for iOS device.
+- Add some video tracks.
+
+\
+\
+\
+Contributor:
+- Giovanna Golino
+- Gaetano Martedì
+- Stefano Gallo
+- Paolo Rito
+- Paolo Benitez
